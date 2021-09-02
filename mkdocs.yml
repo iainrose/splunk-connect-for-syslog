@@ -19,6 +19,7 @@ theme:
     accent: "orange"
   favicon: "logo.png"
   logo: "logo.png"
+  custom_dir: docs_template/overrides
 
 nav:
   - Home: "index.md"
